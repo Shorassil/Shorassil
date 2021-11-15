@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shorassil
 - 👀 I’m interested in Web Development - PHP, JavaScript, MySql
 - 🌱 I’m currently learning - PHP
-- 💞️ I’m looking to collaborate on simple projects that let me get my foot wet.
+- 💞️ I’m looking to collaborate on simple projects that will let me get my foot wet.
 - 📫 Feel free to contact me via Email: shorassil@gmail.com
 
 <!---
